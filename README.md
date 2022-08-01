@@ -21,7 +21,7 @@ Dataset for Korean Legal Inference
 
 ## Citations
 
-```
+```bibtex
 @misc{park2022leapnli,
   author = {Park, Sungmi},
   title = {Lessons Learned Building a Legal Inference Dataset},
