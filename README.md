@@ -24,7 +24,7 @@ Dataset for Korean Legal Inference
 ```bibtex
 @misc{park2022leapnli,
   author = {Park, Sungmi},
-  title = {Lessons Learned Building a Legal Inference Dataset},
+  title = {LEAP-NLI: A Dataset for Legal Inference in Korean},
   year = {2022},
   publisher = {GitHub},
   journal = {GitHub repository},
