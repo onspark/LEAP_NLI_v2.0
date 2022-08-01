@@ -1,5 +1,5 @@
-# LEAP NLI v2.0 dataset
-Dataset for Korean Legal Inference
+# LEAP NLI - A Dataset for Legal Inference in Korean
+Version 2.0
 
 ## Dataset
 
