@@ -64,7 +64,7 @@ It is still highly recommended to conduct further human analysis when utilizing 
 
 ## Acknowledgments
 
-The authors thank the [Legal Informatics and Forensic Science (LIFS) institute](https://lifs.hallym.ac.kr/) at Hallym University and its researchers for their indispensable help in creating the data. 
+The authors thank the [Legal Informatics and Forensic Science (LIFS) Institute](https://lifs.hallym.ac.kr/) at Hallym University and its researchers for their indispensable help in creating the data. 
 
 ## Citations
 
