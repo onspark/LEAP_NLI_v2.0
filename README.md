@@ -45,7 +45,6 @@ All 1,000 samples in the `test` dataset have been human-verified.
 * Entailment: 4,525
 * Contradiction: 4,525
 * Neutral: 4,525
-
 Note that this is a machine-augmented dataset purposefully balanced. 
 
 ## Augmentation Methods
@@ -72,7 +71,7 @@ The authors thank the [Legal Informatics and Forensic Science (LIFS) institute](
 Publication in process.
 
 ```bibtex
-@article{williams-etal-2020-anlizing,
+@article{park-etal-2023-leap,
   title = "Lessons learned building a legal inference dataset",
   author = "Sungmi Park and Joshua I. James",
   journal = "Artificial Intelligence and Law",
