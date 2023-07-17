@@ -24,7 +24,7 @@ The `guid` consists of a context identifier('c0073'), hypothesis identifier('h04
 * mtlK: Augmented using Kakao i
 * mtlP: Augmented using Naver Papago
   
-For further details regarding the augmentation used in this dataset, refer to [** Augmentation Methods **](#augmentation-methods)
+For further details regarding the augmentation used in this dataset, refer to [**Augmentation Methods**](#augmentation-methods)
 
 ### Details
 
